@@ -8,12 +8,11 @@ Analyze employee attrition and identify the key factors influencing employees to
 
 ## Dashboard Features
 - Total Employees KPI
-- Employees Left KPI
+- Attrition Count KPI
 - Attrition Rate KPI
 - Department-wise Attrition
 - Age Group Analysis
 - Gender-wise Attrition
-- Overtime Analysis
 - Interactive Slicers
   - Department
   - Age Group
